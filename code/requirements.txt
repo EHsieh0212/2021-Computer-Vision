@@ -1,0 +1,10 @@
+albumentations
+matplotlib
+numpy
+opencv-python
+opencv-python-headless
+Pillow
+segmentation-models-pytorch
+torch
+torchvision
+tqdm
